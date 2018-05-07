@@ -14,12 +14,11 @@ The dataset came from FiveThirtyEight. It contains information on gun deaths in 
 * hispanic -- a code indicating the Hispanic origin of the victim.
 * place -- where the shooting occurred.
 * education -- educational status of the victim. Can be one of the following:
-
-    1 -- Less than High School
-    2 -- Graduated from High School or equivalent
-    3 -- Some College
-    4 -- At least graduated from College
-    5 -- Not available
+  1. Less than High School
+  2. Graduated from High School or equivalent
+  3. Some College
+  4. At least graduated from College
+  5. Not available
 
 ### Second dataset: census.csv
 The data contains information on the total population of the US, as well as the total population of each racial group in the US.
